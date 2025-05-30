@@ -18,9 +18,13 @@ Poor Bunny Game is a great game that players must deal with different surprising
 ## Key Features
 
 **Charming Graphics**: The game boasts vibrant, colorful graphics that create an immersive environment. Each level is beautifully designed, making exploration a joy.
+
 **Engaging Gameplay**: With intuitive controls and smooth mechanics, players can easily jump, dash, and dodge their way through levels.
+
 **Variety of Levels**: Experience a range of environments, from lush forests to tricky caves, each presenting unique challenges and surprises.
+
 **Power-Ups and Upgrades**: Collect carrots and other items to unlock special abilities and upgrades that enhance gameplay.
+
 **Challenging Enemies**: Face off against quirky foes that require strategy and skill to defeat.
 
 ## Why Play Poor Bunny?
